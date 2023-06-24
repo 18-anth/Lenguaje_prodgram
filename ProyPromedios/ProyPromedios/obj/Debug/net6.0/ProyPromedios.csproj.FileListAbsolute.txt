@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\bin\Debug\net6.0\ProyPromedios.exe
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\bin\Debug\net6.0\ProyPromedios.deps.json
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\bin\Debug\net6.0\ProyPromedios.runtimeconfig.json
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\bin\Debug\net6.0\ProyPromedios.dll
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\bin\Debug\net6.0\ProyPromedios.pdb
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\obj\Debug\net6.0\ProyPromedios.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\obj\Debug\net6.0\ProyPromedios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\obj\Debug\net6.0\ProyPromedios.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\obj\Debug\net6.0\ProyPromedios.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\obj\Debug\net6.0\ProyPromedios.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\obj\Debug\net6.0\ProyPromedios.dll
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\obj\Debug\net6.0\refint\ProyPromedios.dll
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\obj\Debug\net6.0\ProyPromedios.pdb
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\obj\Debug\net6.0\ProyPromedios.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ProyPromedios\ProyPromedios\obj\Debug\net6.0\ref\ProyPromedios.dll

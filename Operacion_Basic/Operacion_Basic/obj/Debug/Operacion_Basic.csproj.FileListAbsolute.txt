@@ -1,0 +1,8 @@
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Operacion_Basic\Operacion_Basic\bin\Debug\Operacion_Basic.exe.config
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Operacion_Basic\Operacion_Basic\bin\Debug\Operacion_Basic.exe
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Operacion_Basic\Operacion_Basic\bin\Debug\Operacion_Basic.pdb
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Operacion_Basic\Operacion_Basic\obj\Debug\Operacion_Basic.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Operacion_Basic\Operacion_Basic\obj\Debug\Operacion_Basic.csproj.SuggestedBindingRedirects.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Operacion_Basic\Operacion_Basic\obj\Debug\Operacion_Basic.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Operacion_Basic\Operacion_Basic\obj\Debug\Operacion_Basic.exe
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Operacion_Basic\Operacion_Basic\obj\Debug\Operacion_Basic.pdb

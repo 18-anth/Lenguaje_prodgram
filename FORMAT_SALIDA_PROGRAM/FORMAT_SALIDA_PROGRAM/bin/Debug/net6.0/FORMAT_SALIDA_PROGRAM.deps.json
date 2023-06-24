@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FORMAT_SALIDA_PROGRAM/1.0.0": {
+        "runtime": {
+          "FORMAT_SALIDA_PROGRAM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FORMAT_SALIDA_PROGRAM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

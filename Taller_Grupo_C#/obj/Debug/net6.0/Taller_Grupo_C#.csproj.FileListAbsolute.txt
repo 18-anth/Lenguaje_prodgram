@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\bin\Debug\net6.0\Taller_Grupo_C#.exe
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\bin\Debug\net6.0\Taller_Grupo_C#.deps.json
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\bin\Debug\net6.0\Taller_Grupo_C#.runtimeconfig.json
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\bin\Debug\net6.0\Taller_Grupo_C#.dll
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\bin\Debug\net6.0\Taller_Grupo_C#.pdb
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\obj\Debug\net6.0\Taller_Grupo_C#.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\obj\Debug\net6.0\Taller_Grupo_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\obj\Debug\net6.0\Taller_Grupo_C#.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\obj\Debug\net6.0\Taller_Grupo_C#.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\obj\Debug\net6.0\Taller_Grupo_C#.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\obj\Debug\net6.0\Taller_Grupo_C#.dll
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\obj\Debug\net6.0\refint\Taller_Grupo_C#.dll
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\obj\Debug\net6.0\Taller_Grupo_C#.pdb
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\obj\Debug\net6.0\Taller_Grupo_C#.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\Taller_Grupo_C#\obj\Debug\net6.0\ref\Taller_Grupo_C#.dll

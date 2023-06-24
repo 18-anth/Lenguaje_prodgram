@@ -1,0 +1,10 @@
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\interface_prueba_1\bin\Debug\interface_prueba_1.exe.config
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\interface_prueba_1\bin\Debug\interface_prueba_1.exe
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\interface_prueba_1\bin\Debug\interface_prueba_1.pdb
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\interface_prueba_1\obj\Debug\interface_prueba_1.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\interface_prueba_1\obj\Debug\interface_prueba_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\interface_prueba_1\obj\Debug\interface_prueba_1.Properties.Resources.resources
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\interface_prueba_1\obj\Debug\interface_prueba_1.csproj.GenerateResource.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\interface_prueba_1\obj\Debug\interface_prueba_1.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\interface_prueba_1\obj\Debug\interface_prueba_1.exe
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\interface_prueba_1\obj\Debug\interface_prueba_1.pdb

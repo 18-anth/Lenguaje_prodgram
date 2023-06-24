@@ -1,0 +1,28 @@
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\bin\Debug\TALLER_GRUPO_2_MDI.exe.config
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\bin\Debug\TALLER_GRUPO_2_MDI.exe
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\bin\Debug\TALLER_GRUPO_2_MDI.pdb
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.MDIFORM.resources
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.MDIParent1.resources
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.Properties.Resources.resources
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.csproj.GenerateResource.cache
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.exe
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.pdb
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.FrmLetra.resources
+C:\Users\USER\Documents\6TO SEMESTRE\Proyectos lenguaje de programacion\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.Frm_TipoLetra.resources
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\bin\Debug\TALLER_GRUPO_2_MDI.exe.config
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\bin\Debug\TALLER_GRUPO_2_MDI.exe
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\bin\Debug\TALLER_GRUPO_2_MDI.pdb
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.csproj.SuggestedBindingRedirects.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.MDIFORM.resources
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.FrmLetra.resources
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.Frm_TipoLetra.resources
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.MDIParent1.resources
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.Properties.Resources.resources
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.csproj.GenerateResource.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.exe
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\TALLER_GRUPO_2_MDI\TALLER_GRUPO_2_MDI\obj\Debug\TALLER_GRUPO_2_MDI.pdb

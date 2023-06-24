@@ -1,0 +1,8 @@
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ejercicio_en_consola\ejercicio_en_consola\bin\Debug\ejercicio_en_consola.exe.config
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ejercicio_en_consola\ejercicio_en_consola\bin\Debug\ejercicio_en_consola.exe
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ejercicio_en_consola\ejercicio_en_consola\bin\Debug\ejercicio_en_consola.pdb
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ejercicio_en_consola\ejercicio_en_consola\obj\Debug\ejercicio_en_consola.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ejercicio_en_consola\ejercicio_en_consola\obj\Debug\ejercicio_en_consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ejercicio_en_consola\ejercicio_en_consola\obj\Debug\ejercicio_en_consola.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ejercicio_en_consola\ejercicio_en_consola\obj\Debug\ejercicio_en_consola.exe
+C:\Users\antho\OneDrive\Escritorio\7 SEMESTRE\LENGUAJE_PROGRAMACIÓN\ejercicio_en_consola\ejercicio_en_consola\obj\Debug\ejercicio_en_consola.pdb
